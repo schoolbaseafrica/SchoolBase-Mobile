@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SchoolBase 📚
 
 Welcome to **SchoolBase**, your friendly neighborhood school attendance management app! Built with Flutter, this app makes tracking student attendance as easy as a tap. Whether you're an admin managing the system or a gateman scanning cards at the gate, SchoolBase keeps everything organized and secure.
@@ -101,3 +102,6 @@ Having trouble? Found a bug? Reach out to our support team or open an issue on G
 dumebinwankwo87@gmail.com
 
 Made with ❤️ for schools everywhere. Happy attending!
+=======
+# SchoolBase-Mobile
+>>>>>>> 39c71bf4d6aa314203f05648720011689ddcd99b
