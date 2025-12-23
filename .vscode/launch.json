@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\screens\\admin_history_screen.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\screens\\admin_history_screen.dart"
+        }
+    ]
+}
